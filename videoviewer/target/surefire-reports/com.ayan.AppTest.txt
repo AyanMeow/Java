@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ayan.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.843 s <<< FAILURE! - in com.ayan.AppTest
+shouldAnswerWithTrue(com.ayan.AppTest)  Time elapsed: 7.756 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.ayan.AppTest.shouldAnswerWithTrue(AppTest.java:20)
+

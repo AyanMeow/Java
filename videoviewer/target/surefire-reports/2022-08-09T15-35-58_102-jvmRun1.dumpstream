@@ -1,0 +1,832 @@
+# Created at 2022-08-09T15:37:19.601
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-08-09T15:37:20.132
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.134
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.137
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.138
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.140
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.141
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.143
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.144
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.146
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.147
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.149
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.151
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.153
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.154
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.156
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.158
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.160
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.162
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.164
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.165
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.167
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.169
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.171
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.172
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.174
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.175
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.177
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.178
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.180
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.181
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.183
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.184
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.186
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.187
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.189
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.191
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.249
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.251
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.253
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.254
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.256
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.258
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.260
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.261
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.263
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.264
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.265
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.267
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.268
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.269
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.270
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.271
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.272
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.274
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.275
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.277
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.283
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.284
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.285
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.287
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.288
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.289
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.290
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.291
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.292
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.294
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.295
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.296
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.298
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.299
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.300
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.302
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.303
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.304
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.305
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.306
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.374
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.375
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.377
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.378
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.379
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.381
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.383
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.384
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.386
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.387
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.389
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.391
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.392
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.393
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.394
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.395
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.396
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.397
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.399
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.400
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.407
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.408
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.410
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.411
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.412
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.413
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.414
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.415
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.416
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.418
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.419
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.421
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.423
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.424
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.426
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.428
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.430
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.431
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.432
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.434
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.503
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.505
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.507
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.508
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.509
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.510
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.512
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.513
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.514
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.515
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.517
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.518
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.519
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.520
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.521
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.523
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.524
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.526
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.527
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.528
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.531
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.533
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.534
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.535
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.536
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.537
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.538
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.539
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.540
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.541
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.542
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.543
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.544
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.545
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.547
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.548
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.549
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.550
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.551
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.552
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.619
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.620
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.622
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.624
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.625
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.627
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.628
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.629
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.630
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.632
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.633
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.634
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.635
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.636
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.637
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.639
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.640
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.641
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.642
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.643
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.645
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.646
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.647
+Unexpected IOException: 6,1,com.ayan.AppTest,shouldAnswerWithTrue(com.ayan.AppTest),null,null,null
+
+
+# Created at 2022-08-09T15:37:20.648
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.650
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.651
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,com.ayan.AppTest,null,null,null
+
+
+# Created at 2022-08-09T15:37:20.652
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.653
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.673
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.674
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.675
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.676
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.678
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.679
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.680
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.681
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.682
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.682
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.684
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.684
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.685
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.686
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.687
+Unexpected IOException with stream: Exception in thread "Thread-490" 
+
+# Created at 2022-08-09T15:37:20.688
+Unexpected IOException with stream: java.lang.IndexOutOfBoundsException: Index 490 out of bounds for length 490
+
+# Created at 2022-08-09T15:37:20.690
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.691
+Unexpected IOException with stream: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+
+# Created at 2022-08-09T15:37:20.692
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.693
+Unexpected IOException with stream: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+
+# Created at 2022-08-09T15:37:20.694
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.695
+Unexpected IOException with stream: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+
+# Created at 2022-08-09T15:37:20.696
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.697
+Unexpected IOException with stream: 	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+
+# Created at 2022-08-09T15:37:20.698
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.699
+Unexpected IOException with stream: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+
+# Created at 2022-08-09T15:37:20.701
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.702
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:20)
+
+# Created at 2022-08-09T15:37:20.703
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.705
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.706
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.782
+Unexpected IOException with stream: java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.edge.driver system property; for more information, see https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/. The latest version can be downloaded from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+# Created at 2022-08-09T15:37:20.783
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.784
+Unexpected IOException with stream: 	at org.openqa.selenium.internal.Require$StateChecker.nonNull(Require.java:280)
+
+# Created at 2022-08-09T15:37:20.785
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.786
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+
+# Created at 2022-08-09T15:37:20.787
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.788
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService.access$000(EdgeDriverService.java:40)
+
+# Created at 2022-08-09T15:37:20.789
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.790
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriverService$Builder.findDefaultExecutable(EdgeDriverService.java:176)
+
+# Created at 2022-08-09T15:37:20.791
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.792
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:434)
+
+# Created at 2022-08-09T15:37:20.793
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.794
+Unexpected IOException with stream: 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:41)
+
+# Created at 2022-08-09T15:37:20.794
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.795
+Unexpected IOException with stream: 	at com.ayan.utils.OpenWeb.openWeb(OpenWeb.java:27)
+
+# Created at 2022-08-09T15:37:20.797
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.798
+Unexpected IOException with stream: 	at com.ayan.utils.MutiStarter.run(MutiStarter.java:22)
+
+# Created at 2022-08-09T15:37:20.799
+Unexpected IOException with stream: 
+
+
+# Created at 2022-08-09T15:37:20.800
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:833)
+
+# Created at 2022-08-09T15:37:20.801
+Unexpected IOException with stream: 
+
+
